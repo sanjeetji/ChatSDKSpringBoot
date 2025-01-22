@@ -4,32 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa3fee84-37ef-4f19-a28a-964a3b8cf748" name="Changes" comment="first commit" />
+    <list default="true" id="aa3fee84-37ef-4f19-a28a-964a3b8cf748" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;sanjeetji&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sanjeetji/ChatSDKSpringBoot&quot;,
-    &quot;accountId&quot;: &quot;39d23eca-4e43-4bff-ac57-642f7d9b6e1c&quot;
-  }
-}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,11 +17,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2rvgROwKwaCpcytg0CJFe7UkGoR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +29,6 @@
   "keyToString": {
     "Application.ChatAppApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/sanjeet_kumar/Downloads/Chat-App"
   }
@@ -89,76 +67,65 @@
       <option name="presentableId" value="Default" />
       <updated>1737444954038</updated>
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1737526079375</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1737526079375</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="22" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="26" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/service/ChatService.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="27" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/controller/ClientController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/controller/ClientController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/controller/ClientController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/controller/ClientController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/controller/ClientController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sanjeet/chat/config/TokenValidationFilter.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
